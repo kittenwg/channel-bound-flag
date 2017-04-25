@@ -9,3 +9,4 @@ draft-ietf-kitten-channel-bound-flag was first published as a kitten WG document
 
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
+Benjamin Kaduk | 7 August 2013 | -00 | "basically editorial" | https://www.ietf.org/mail-archive/web/kitten/current/msg04229.html

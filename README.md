@@ -13,3 +13,4 @@ Thomas Maslen | 13 February 2013 | individual -01 | on the interaction with Java
 Jim Schaad | 22 February 2013 | individual -02 | general questions/discussion, no overarching summary/conclusion | https://www.ietf.org/mail-archive/web/kitten/current/msg03839.html
 Benjamin Kaduk | 7 August 2013 | -00 | "basically editorial" | https://www.ietf.org/mail-archive/web/kitten/current/msg04229.html
 Greg Hudson | 24 June 2017 | -01 | some design concerns, especially around krb5 interaction | https://www.ietf.org/mail-archive/web/kitten/current/msg06321.html
+Dave Cridland | 8 February 2019 | -04 | phrasing, empty contexts purpose, state machine clarification | https://mailarchive.ietf.org/arch/msg/kitten/LiM7OGdH1bjDHF46H-Zy5vNJvnE

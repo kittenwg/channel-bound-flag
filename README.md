@@ -14,3 +14,5 @@ Jim Schaad | 22 February 2013 | individual -02 | general questions/discussion, n
 Benjamin Kaduk | 7 August 2013 | -00 | "basically editorial" | https://www.ietf.org/mail-archive/web/kitten/current/msg04229.html
 Greg Hudson | 24 June 2017 | -01 | some design concerns, especially around krb5 interaction | https://www.ietf.org/mail-archive/web/kitten/current/msg06321.html
 Dave Cridland | 8 February 2019 | -04 | phrasing, empty contexts purpose, state machine clarification | https://mailarchive.ietf.org/arch/msg/kitten/LiM7OGdH1bjDHF46H-Zy5vNJvnE
+Sam Hartman | 18 February 2019 | -04 | disagreement on problem space definition, moonshot | https://mailarchive.ietf.org/arch/msg/kitten/D84ASPLwb3j-PY4KuPNmXoqChFs
+Martin Rex | 7 March 2019 | -04 | channel bindings are fundamentally flawed, proxies | https://mailarchive.ietf.org/arch/msg/kitten/iZf4W95HQn9-rvg5Tr93vj-iQKA
